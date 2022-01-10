@@ -1,0 +1,135 @@
+{
+  "build": "hd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "paramiko"
+  ],
+  "extracted_package_dir": "C:\\Anaconda3\\pkgs\\sshtunnel-0.4.0-hd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/LICENSE",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/METADATA",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/RECORD",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/REQUESTED",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/WHEEL",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/direct_url.json",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/entry_points.txt",
+    "Lib/site-packages/sshtunnel-0.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/sshtunnel.py",
+    ".nonadmin",
+    "Lib/site-packages/__pycache__/sshtunnel.cpython-36.pyc",
+    "Scripts/sshtunnel-script.py",
+    "Scripts/sshtunnel.exe"
+  ],
+  "fn": "sshtunnel-0.4.0-hd3eb1b0_0.conda",
+  "legacy_bz2_md5": "fa467978fa98fc4fdd557738ee35d04e",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Anaconda3\\pkgs\\sshtunnel-0.4.0-hd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "cf841df3d448d6f6b1c8b1c174c82903",
+  "name": "sshtunnel",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Anaconda3\\pkgs\\sshtunnel-0.4.0-hd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "f950062cbd6ab2b64dbeffcd17a9ba85f83c978fa7e5351d709e926a453e3b99",
+        "sha256_in_prefix": "f950062cbd6ab2b64dbeffcd17a9ba85f83c978fa7e5351d709e926a453e3b99",
+        "size_in_bytes": 1061
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "56d01ec773d5e113dc9e28197726f527ec979b33e7ed81a9f45242e4ab3c1926",
+        "sha256_in_prefix": "56d01ec773d5e113dc9e28197726f527ec979b33e7ed81a9f45242e4ab3c1926",
+        "size_in_bytes": 19467
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "fcff647a7315dc274f20e840b0b1152ef77eee8c86fa7287321f75a0637573e9",
+        "sha256_in_prefix": "fcff647a7315dc274f20e840b0b1152ef77eee8c86fa7287321f75a0637573e9",
+        "size_in_bytes": 968
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "7a6057589cf5a38cb5606ddde6690890db3dd456e1140518a7476439d74a0be6",
+        "sha256_in_prefix": "7a6057589cf5a38cb5606ddde6690890db3dd456e1140518a7476439d74a0be6",
+        "size_in_bytes": 82
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/entry_points.txt",
+        "path_type": "hardlink",
+        "sha256": "5d67bb9609b5a091b6881372211381b8450952609047c93479a9a5fa50ce3938",
+        "sha256_in_prefix": "5d67bb9609b5a091b6881372211381b8450952609047c93479a9a5fa50ce3938",
+        "size_in_bytes": 51
+      },
+      {
+        "_path": "site-packages/sshtunnel-0.4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "2d93a51616bd1d92e549fa7db78ca9d7a1ca458194907a81e9648ef11b55dc24",
+        "sha256_in_prefix": "2d93a51616bd1d92e549fa7db78ca9d7a1ca458194907a81e9648ef11b55dc24",
+        "size_in_bytes": 10
+      },
+      {
+        "_path": "site-packages/sshtunnel.py",
+        "path_type": "hardlink",
+        "sha256": "4351541634a5d1ab0652e2d5856f9343536fa5a3171eff9496a7b34464ca5c86",
+        "sha256_in_prefix": "4351541634a5d1ab0652e2d5856f9343536fa5a3171eff9496a7b34464ca5c86",
+        "size_in_bytes": 69229
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/sshtunnel.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Scripts/sshtunnel-script.py",
+        "path_type": "windows_python_entry_point_script"
+      },
+      {
+        "_path": "Scripts/sshtunnel.exe",
+        "path_type": "windows_python_entry_point_exe"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "sshtunnel",
+  "sha256": "d017398bb3107d53f1abfea4727321d406cb25443fb1dffa3a952543440eb631",
+  "size": 26623,
+  "subdir": "noarch",
+  "timestamp": 1610404858336,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/sshtunnel-0.4.0-hd3eb1b0_0.conda",
+  "version": "0.4.0"
+}

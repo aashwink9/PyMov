@@ -1,0 +1,430 @@
+{
+  "build": "pyhd3eb1b0_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "python",
+    "six >=1.9.0"
+  ],
+  "extracted_package_dir": "C:\\Anaconda3\\pkgs\\ecdsa-0.17.0-pyhd3eb1b0_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/INSTALLER",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/LICENSE",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/METADATA",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/RECORD",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/REQUESTED",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/WHEEL",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/direct_url.json",
+    "Lib/site-packages/ecdsa-0.17.0.dist-info/top_level.txt",
+    "Lib/site-packages/ecdsa/__init__.py",
+    "Lib/site-packages/ecdsa/_compat.py",
+    "Lib/site-packages/ecdsa/_rwlock.py",
+    "Lib/site-packages/ecdsa/_version.py",
+    "Lib/site-packages/ecdsa/curves.py",
+    "Lib/site-packages/ecdsa/der.py",
+    "Lib/site-packages/ecdsa/ecdh.py",
+    "Lib/site-packages/ecdsa/ecdsa.py",
+    "Lib/site-packages/ecdsa/ellipticcurve.py",
+    "Lib/site-packages/ecdsa/errors.py",
+    "Lib/site-packages/ecdsa/keys.py",
+    "Lib/site-packages/ecdsa/numbertheory.py",
+    "Lib/site-packages/ecdsa/rfc6979.py",
+    "Lib/site-packages/ecdsa/test_curves.py",
+    "Lib/site-packages/ecdsa/test_der.py",
+    "Lib/site-packages/ecdsa/test_ecdh.py",
+    "Lib/site-packages/ecdsa/test_ecdsa.py",
+    "Lib/site-packages/ecdsa/test_ellipticcurve.py",
+    "Lib/site-packages/ecdsa/test_jacobi.py",
+    "Lib/site-packages/ecdsa/test_keys.py",
+    "Lib/site-packages/ecdsa/test_malformed_sigs.py",
+    "Lib/site-packages/ecdsa/test_numbertheory.py",
+    "Lib/site-packages/ecdsa/test_pyecdsa.py",
+    "Lib/site-packages/ecdsa/test_rw_lock.py",
+    "Lib/site-packages/ecdsa/util.py",
+    ".nonadmin",
+    "Lib/site-packages/ecdsa/__pycache__/__init__.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/_compat.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/_rwlock.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/_version.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/curves.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/der.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/ecdh.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/ecdsa.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/ellipticcurve.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/errors.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/keys.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/numbertheory.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/rfc6979.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_curves.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_der.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_ecdh.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_ecdsa.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_ellipticcurve.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_jacobi.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_keys.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_malformed_sigs.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_numbertheory.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_pyecdsa.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/test_rw_lock.cpython-36.pyc",
+    "Lib/site-packages/ecdsa/__pycache__/util.cpython-36.pyc"
+  ],
+  "fn": "ecdsa-0.17.0-pyhd3eb1b0_0.conda",
+  "legacy_bz2_md5": "0299c79df2e325e636b15bb15c87e3d7",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Anaconda3\\pkgs\\ecdsa-0.17.0-pyhd3eb1b0_0",
+    "type": 1
+  },
+  "md5": "115b4bff0a86e99998a84a6eedceb137",
+  "name": "ecdsa",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Anaconda3\\pkgs\\ecdsa-0.17.0-pyhd3eb1b0_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "3eca9845773d2e5b8cc9d8c119d345f00a4806e4bd660d4a3d6cdf9c0e9d8bb2",
+        "sha256_in_prefix": "3eca9845773d2e5b8cc9d8c119d345f00a4806e4bd660d4a3d6cdf9c0e9d8bb2",
+        "size_in_bytes": 1147
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "420764328f99d07b231ee1517244cae4d659c7aff227a781a47ff3de81b879fe",
+        "sha256_in_prefix": "420764328f99d07b231ee1517244cae4d659c7aff227a781a47ff3de81b879fe",
+        "size_in_bytes": 28533
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "340aa0e27f9ed9cdf1002c1ca8f1ebf28435816b5f5ca8863003a63028feae1e",
+        "sha256_in_prefix": "340aa0e27f9ed9cdf1002c1ca8f1ebf28435816b5f5ca8863003a63028feae1e",
+        "size_in_bytes": 3730
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/REQUESTED",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "sha256_in_prefix": "67e9f2629c2b712ab17ddbb1e4c6e7fc3439db988fec9d831b72601af398c934",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/direct_url.json",
+        "path_type": "hardlink",
+        "sha256": "db0218098e76aefc2003b5147da0c55c6c14ce8230246d8df9aa54c03a285bd1",
+        "sha256_in_prefix": "db0218098e76aefc2003b5147da0c55c6c14ce8230246d8df9aa54c03a285bd1",
+        "size_in_bytes": 78
+      },
+      {
+        "_path": "site-packages/ecdsa-0.17.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "ee8bcf1df00fc93a2ed7d7fc80e49b1e6e81f5d1a34e26d6a2570207b663a2fb",
+        "sha256_in_prefix": "ee8bcf1df00fc93a2ed7d7fc80e49b1e6e81f5d1a34e26d6a2570207b663a2fb",
+        "size_in_bytes": 6
+      },
+      {
+        "_path": "site-packages/ecdsa/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d61edc44c822368aa531827977401ff7f04a906c30deeb8bace526ab3ec9045d",
+        "sha256_in_prefix": "d61edc44c822368aa531827977401ff7f04a906c30deeb8bace526ab3ec9045d",
+        "size_in_bytes": 1610
+      },
+      {
+        "_path": "site-packages/ecdsa/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "c9383dfc27e2b954ae20c666f77e2041638b5ad6a04027e10dec7c3c775f0a5f",
+        "sha256_in_prefix": "c9383dfc27e2b954ae20c666f77e2041638b5ad6a04027e10dec7c3c775f0a5f",
+        "size_in_bytes": 1774
+      },
+      {
+        "_path": "site-packages/ecdsa/_rwlock.py",
+        "path_type": "hardlink",
+        "sha256": "080c07a7657ae64b08f01d54a98ec471c2bd2da513a22bfaa432d5ce6e3879a8",
+        "sha256_in_prefix": "080c07a7657ae64b08f01d54a98ec471c2bd2da513a22bfaa432d5ce6e3879a8",
+        "size_in_bytes": 2849
+      },
+      {
+        "_path": "site-packages/ecdsa/_version.py",
+        "path_type": "hardlink",
+        "sha256": "757555b06880cff6b783f3014b5a74e81c751c4a0e8f9bca45492826155fc4bf",
+        "sha256_in_prefix": "757555b06880cff6b783f3014b5a74e81c751c4a0e8f9bca45492826155fc4bf",
+        "size_in_bytes": 498
+      },
+      {
+        "_path": "site-packages/ecdsa/curves.py",
+        "path_type": "hardlink",
+        "sha256": "dc8d2ed2bfa509982f375e7aa28e9f4b10a3350605493c958cb480d4961f809b",
+        "sha256_in_prefix": "dc8d2ed2bfa509982f375e7aa28e9f4b10a3350605493c958cb480d4961f809b",
+        "size_in_bytes": 12266
+      },
+      {
+        "_path": "site-packages/ecdsa/der.py",
+        "path_type": "hardlink",
+        "sha256": "a7fea3fbdf7ccc682e1dd81fe0b15601e5cba6f53bab9eed9840a237c62f88a5",
+        "sha256_in_prefix": "a7fea3fbdf7ccc682e1dd81fe0b15601e5cba6f53bab9eed9840a237c62f88a5",
+        "size_in_bytes": 14113
+      },
+      {
+        "_path": "site-packages/ecdsa/ecdh.py",
+        "path_type": "hardlink",
+        "sha256": "d4392cad4487b8976d947f6eb7515c53739e783f27f8032ad73a6eecbd43e1cc",
+        "sha256_in_prefix": "d4392cad4487b8976d947f6eb7515c53739e783f27f8032ad73a6eecbd43e1cc",
+        "size_in_bytes": 11069
+      },
+      {
+        "_path": "site-packages/ecdsa/ecdsa.py",
+        "path_type": "hardlink",
+        "sha256": "bc7a81a23560e415b9dbac181665be391c121cbffdde5cce52e11b8522b8a5bb",
+        "sha256_in_prefix": "bc7a81a23560e415b9dbac181665be391c121cbffdde5cce52e11b8522b8a5bb",
+        "size_in_bytes": 24283
+      },
+      {
+        "_path": "site-packages/ecdsa/ellipticcurve.py",
+        "path_type": "hardlink",
+        "sha256": "c8cc9f86925a9f758040f55cff7ed4918791b3b1ab8ab5cd4f90f4f334559b1e",
+        "sha256_in_prefix": "c8cc9f86925a9f758040f55cff7ed4918791b3b1ab8ab5cd4f90f4f334559b1e",
+        "size_in_bytes": 39435
+      },
+      {
+        "_path": "site-packages/ecdsa/errors.py",
+        "path_type": "hardlink",
+        "sha256": "6f89a19e622946711d1f36de72d1c003917b3bd32d49a23e7d8a1cd77fef0714",
+        "sha256_in_prefix": "6f89a19e622946711d1f36de72d1c003917b3bd32d49a23e7d8a1cd77fef0714",
+        "size_in_bytes": 130
+      },
+      {
+        "_path": "site-packages/ecdsa/keys.py",
+        "path_type": "hardlink",
+        "sha256": "f5e53604d6e99caacbc7c7c45fba9044f37593fb22c94565970f2d24eaef6ce6",
+        "sha256_in_prefix": "f5e53604d6e99caacbc7c7c45fba9044f37593fb22c94565970f2d24eaef6ce6",
+        "size_in_bytes": 60650
+      },
+      {
+        "_path": "site-packages/ecdsa/numbertheory.py",
+        "path_type": "hardlink",
+        "sha256": "ac35dc2d4f113bd4dc4d55776bc9d1bc1be6c6f8e5f7b9ad1273cae9f859d018",
+        "sha256_in_prefix": "ac35dc2d4f113bd4dc4d55776bc9d1bc1be6c6f8e5f7b9ad1273cae9f859d018",
+        "size_in_bytes": 17349
+      },
+      {
+        "_path": "site-packages/ecdsa/rfc6979.py",
+        "path_type": "hardlink",
+        "sha256": "c7a7423b69774253cb1c4fb0ddce39eabaad8614813f4ddd0a74df4b07818015",
+        "sha256_in_prefix": "c7a7423b69774253cb1c4fb0ddce39eabaad8614813f4ddd0a74df4b07818015",
+        "size_in_bytes": 2725
+      },
+      {
+        "_path": "site-packages/ecdsa/test_curves.py",
+        "path_type": "hardlink",
+        "sha256": "aeb2a957e6f1b0fc2062ffecd65526218f432e821bcd09216bd8029b5350f445",
+        "sha256_in_prefix": "aeb2a957e6f1b0fc2062ffecd65526218f432e821bcd09216bd8029b5350f445",
+        "size_in_bytes": 11670
+      },
+      {
+        "_path": "site-packages/ecdsa/test_der.py",
+        "path_type": "hardlink",
+        "sha256": "636b1f0b8a4061db3ea658bcf87619e9ff5c9cface18087e689b7393158f59d4",
+        "sha256_in_prefix": "636b1f0b8a4061db3ea658bcf87619e9ff5c9cface18087e689b7393158f59d4",
+        "size_in_bytes": 14958
+      },
+      {
+        "_path": "site-packages/ecdsa/test_ecdh.py",
+        "path_type": "hardlink",
+        "sha256": "e841d3f5047d040bb396fe8e830ad8b205fe4d008679aa96cf07c1188ba2cf20",
+        "sha256_in_prefix": "e841d3f5047d040bb396fe8e830ad8b205fe4d008679aa96cf07c1188ba2cf20",
+        "size_in_bytes": 14965
+      },
+      {
+        "_path": "site-packages/ecdsa/test_ecdsa.py",
+        "path_type": "hardlink",
+        "sha256": "d5c9417c3b40d33745fb5dc1a0a5ec25f7cbe4afa216eb65320a2fd24986ae8d",
+        "sha256_in_prefix": "d5c9417c3b40d33745fb5dc1a0a5ec25f7cbe4afa216eb65320a2fd24986ae8d",
+        "size_in_bytes": 23923
+      },
+      {
+        "_path": "site-packages/ecdsa/test_ellipticcurve.py",
+        "path_type": "hardlink",
+        "sha256": "2ba5bf110ba739f13e4554aec7a7753bb2d7cd2b80b1593d1757a5c3263ead80",
+        "sha256_in_prefix": "2ba5bf110ba739f13e4554aec7a7753bb2d7cd2b80b1593d1757a5c3263ead80",
+        "size_in_bytes": 6085
+      },
+      {
+        "_path": "site-packages/ecdsa/test_jacobi.py",
+        "path_type": "hardlink",
+        "sha256": "06f584a5fee3ba05df00e5768c8eb91b5dbf653dd399198dd120c3b7a796ff17",
+        "sha256_in_prefix": "06f584a5fee3ba05df00e5768c8eb91b5dbf653dd399198dd120c3b7a796ff17",
+        "size_in_bytes": 18404
+      },
+      {
+        "_path": "site-packages/ecdsa/test_keys.py",
+        "path_type": "hardlink",
+        "sha256": "b653c8a061902386c1fea1d99d1805aa30a049e65e5a4420832f74630581680d",
+        "sha256_in_prefix": "b653c8a061902386c1fea1d99d1805aa30a049e65e5a4420832f74630581680d",
+        "size_in_bytes": 22423
+      },
+      {
+        "_path": "site-packages/ecdsa/test_malformed_sigs.py",
+        "path_type": "hardlink",
+        "sha256": "d6f1f35f410078687b5d8c58fa094a54c0b65e765b6be0c650287b534f5e25aa",
+        "sha256_in_prefix": "d6f1f35f410078687b5d8c58fa094a54c0b65e765b6be0c650287b534f5e25aa",
+        "size_in_bytes": 10262
+      },
+      {
+        "_path": "site-packages/ecdsa/test_numbertheory.py",
+        "path_type": "hardlink",
+        "sha256": "7f94c430343ee2072b4e2b980ab94abf6ef2799faa8119efc4f2afe7b006213e",
+        "sha256_in_prefix": "7f94c430343ee2072b4e2b980ab94abf6ef2799faa8119efc4f2afe7b006213e",
+        "size_in_bytes": 10881
+      },
+      {
+        "_path": "site-packages/ecdsa/test_pyecdsa.py",
+        "path_type": "hardlink",
+        "sha256": "e4f21fce6fdb9518eeb6bb78618ab26e59765c00135abe2f70a038f8400dbfcf",
+        "sha256_in_prefix": "e4f21fce6fdb9518eeb6bb78618ab26e59765c00135abe2f70a038f8400dbfcf",
+        "size_in_bytes": 79320
+      },
+      {
+        "_path": "site-packages/ecdsa/test_rw_lock.py",
+        "path_type": "hardlink",
+        "sha256": "6f2bf4fc54ccf7471bb873c223afff2de4099072ffcd811e5582013bc7b62cb7",
+        "sha256_in_prefix": "6f2bf4fc54ccf7471bb873c223afff2de4099072ffcd811e5582013bc7b62cb7",
+        "size_in_bytes": 7021
+      },
+      {
+        "_path": "site-packages/ecdsa/util.py",
+        "path_type": "hardlink",
+        "sha256": "061afc587d08fc0bb57ef1ecc449412700a58472656bd09ada698ddb98be7de1",
+        "sha256_in_prefix": "061afc587d08fc0bb57ef1ecc449412700a58472656bd09ada698ddb98be7de1",
+        "size_in_bytes": 14620
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/__init__.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/_compat.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/_rwlock.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/_version.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/curves.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/der.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/ecdh.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/ecdsa.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/ellipticcurve.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/errors.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/keys.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/numbertheory.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/rfc6979.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_curves.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_der.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_ecdh.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_ecdsa.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_ellipticcurve.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_jacobi.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_keys.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_malformed_sigs.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_numbertheory.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_pyecdsa.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/test_rw_lock.cpython-36.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/ecdsa/__pycache__/util.cpython-36.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "18705ab471794de22a66b51d39cfd5972258249ae3cfdd16b3e330cb2995b876",
+  "size": 101236,
+  "subdir": "noarch",
+  "timestamp": 1622554955411,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/ecdsa-0.17.0-pyhd3eb1b0_0.conda",
+  "version": "0.17.0"
+}
